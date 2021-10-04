@@ -1,0 +1,3 @@
+mysql.server start
+messerver => nodemon ./bin/www
+mescli => npm run serve
